@@ -8,6 +8,7 @@
 
 ## Archive
 
+* [Nextwave Media Lab](archive/nextwave-media-lab.md)
 * [DetroitMusic.TV](archive/detroitmusic.tv.md)
 * [Ego vs. Ego](archive/ego-vs.-ego.md)
 * [Slickfire LLC](archive/slickfire-llc.md)
