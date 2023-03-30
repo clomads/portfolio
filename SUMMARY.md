@@ -14,3 +14,7 @@
 * [DetroitMusic.TV](archive/detroitmusic.tv.md)
 * [Ego vs. Ego](archive/ego-vs.-ego.md)
 * [Slickfire LLC](archive/slickfire-llc.md)
+
+## Collections
+
+* [Logos](collections/logos.md)
