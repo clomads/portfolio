@@ -5,9 +5,11 @@
 ## Featured
 
 * [VDBX.io / Voidbox Industries](featured/vdbx.io-voidbox-industries.md)
+* [Can of Bliss](featured/can-of-bliss.md)
 
 ## Archive
 
+* [Busey Ipsum](archive/busey-ipsum.md)
 * [Nextwave Media Lab](archive/nextwave-media-lab.md)
 * [DetroitMusic.TV](archive/detroitmusic.tv.md)
 * [Ego vs. Ego](archive/ego-vs.-ego.md)
