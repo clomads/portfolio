@@ -18,3 +18,7 @@
 ## Collections
 
 * [Logos](collections/logos.md)
+
+## Concepts
+
+* [Single Motor Control For Klipper](concepts/single-motor-control-for-klipper.md)
