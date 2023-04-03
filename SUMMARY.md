@@ -5,6 +5,7 @@
 ## Featured
 
 * [VDBX.io / Voidbox Industries](featured/vdbx.io-voidbox-industries.md)
+* [Gary Bussy](featured/gary-bussy.md)
 * [Can of Bliss](featured/can-of-bliss.md)
 
 ## Archive
