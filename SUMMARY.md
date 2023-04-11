@@ -23,3 +23,9 @@
 ## Concepts
 
 * [Single Motor Control For Klipper](concepts/single-motor-control-for-klipper.md)
+* [Origami](concepts/origami/README.md)
+  * [Keyboard](concepts/origami/keyboard.md)
+  * [Measurements](concepts/origami/measurements.md)
+  * [Power](concepts/origami/power.md)
+  * [Design Reference](concepts/origami/design-reference.md)
+  * [Display](concepts/origami/display.md)
