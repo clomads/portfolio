@@ -1,5 +1,10 @@
 ---
 description: RP2040 was over-hyped, but I kinda love how Klipper has implemented it.
+tags:
+  - RP2040
+  - 3D Printing
+categories:
+  - Concept
 ---
 
 # Single Motor Control For Klipper
