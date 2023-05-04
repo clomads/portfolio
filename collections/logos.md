@@ -16,7 +16,7 @@ I'm building this page on the fly with assets that I have on hand. There are a f
 
 ![](<../.gitbook/assets/Screenshot 2023-03-29 at 7.45.16 PM.png>)
 
-![](<../.gitbook/assets/Screenshot 2023-03-29 at 8.37.08 PM (1).png>)
+![](<../.gitbook/assets/Screenshot 2023-03-29 at 8.37.08 PM.png>)
 
 ![](<../.gitbook/assets/Screenshot 2023-03-29 at 8.38.59 PM.png>)
 

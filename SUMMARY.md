@@ -13,7 +13,7 @@
 * [Busey Ipsum](archive/busey-ipsum.md)
 * [Nextwave Media Lab](archive/nextwave-media-lab.md)
 * [DetroitMusic.TV](archive/detroitmusic.tv.md)
-* [Ego vs. Ego](archive/ego-vs.-ego.md)
+* [SudoTV](archive/sudotv.md)
 * [Slickfire LLC](archive/slickfire-llc.md)
 
 ## Collections
