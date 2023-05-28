@@ -29,3 +29,7 @@
   * [Power](concepts/origami/power.md)
   * [Design Reference](concepts/origami/design-reference.md)
   * [Display](concepts/origami/display.md)
+
+## Hobbies
+
+* [Gary Bussy](hobbies/gary-bussy.md)
