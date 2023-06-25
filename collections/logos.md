@@ -75,3 +75,7 @@ Bamboozled was my best friend Paul's high school band and I acted almost as a me
 <figure><img src="../.gitbook/assets/the-man-productions.gif" alt=""><figcaption></figcaption></figure>
 
 A filmmaker friend of mine in high-school gave me the prompt for this logo but decided on a different name.
+
+<figure><img src="../.gitbook/assets/wtfsmoke.jpg" alt=""><figcaption></figcaption></figure>
+
+In late middle school / early high school, I  made this logo for this site that is still around to this day. I think it's just a weird forum... idk honestly.
