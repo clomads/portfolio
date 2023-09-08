@@ -16,7 +16,6 @@
 * [Silkroute Global](archive/silkroute-global.md)
 * [DetroitMusic.TV](archive/detroitmusic.tv.md)
 * [SudoTV](archive/sudotv.md)
-* [Slickfire LLC](archive/slickfire-llc.md)
 
 ## Collections
 
