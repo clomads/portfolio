@@ -13,6 +13,7 @@
 * [Busey Ipsum](archive/busey-ipsum.md)
 * [Nextwave Media Lab](archive/nextwave-media-lab.md)
 * [Routes  🚀](archive/routes.md)
+* [Silkroute Global](archive/silkroute-global.md)
 * [DetroitMusic.TV](archive/detroitmusic.tv.md)
 * [SudoTV](archive/sudotv.md)
 * [Slickfire LLC](archive/slickfire-llc.md)
