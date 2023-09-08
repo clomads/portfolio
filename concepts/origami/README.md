@@ -1,31 +1,20 @@
 # Origami
 
 {% hint style="info" %}
-Some names have been redacted to remove unwanted association. This was a very early project that got ahead of me, but I'd love to revisit it one day. - @clomads&#x20;
+This was a very early project that got ahead of me, but I'd love to revisit it one day
 
 `Originally written 12/29/2017`
 {% endhint %}
 
 ### History
 
-nbPi was initially conceived by Chloe Madison alongside \*\*\*\*\*\*\*\*\* around October of 2017. It is in direct response to projects like Pocket C.H.I.P, Pandora Project, PiGirl/PiBoy and others. It hopes to be an infinitely modular portable computing system based around the Raspberry Pi Zero/W with considerations for other Raspberry Pi boards.
+nbPi was initially conceived around October of 2017. It is in direct response to projects like Pocket C.H.I.P, Pandora Project, PiGirl/PiBoy and others. It hopes to be an infinitely modular portable computing system based around the Raspberry Pi Zero/W with considerations for other Raspberry Pi boards.
 
 Key Goals:
 
 * Single board backplane design to incorporate all major I/O and connectivity to modules.
 * Detachable keyboard and gamepad sections
 * stuff and things
-
-## Core Team
-
-* Chloe Madison - @clomads
-  * Responsible for design across software and hardware
-  * Will focus on keyboard development
-* \*\*\*\*\*\*\*\*\*\*\*\*
-  * Responsible for software and modifications to a core OS that will allow the nbPi to run as intended
-  * Will manage software based add-ons for other potential OS installations.
-* \*\*\*\*\*\*\*\*\*\*\*\*
-  * Responsible for hardware implementation of the gamepad section of the nbPi board
 
 ## Goals
 

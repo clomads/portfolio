@@ -1,5 +1,5 @@
 ---
-description: A long term mobile housing project pushing towards self-sustainability.
+description: A platform for testing DIY off-grid automation hardware. Also my house.
 cover: ../.gitbook/assets/IMG_2909.JPG
 coverY: 0
 ---
@@ -17,7 +17,7 @@ I'm working on a whole separate wiki to track the projects I do in her. I will l
 * 1995 Chevy Van G30 Cutaway Chassis
   * 6.5L Detroit Diesel (NA)
   * 4L80E Automatic Transmission
-  * 33 Gallon Diesel Tank
+  * 30 Gallon Diesel Tank
   * 10,000lbs GVWR&#x20;
 * 1450 W Solar
   * 4.5Kwh Lithium NMC 7s @ 25.2v Nominal
@@ -25,6 +25,17 @@ I'm working on a whole separate wiki to track the projects I do in her. I will l
   * 3000w Inverter
     * Induction Cooktop
     * Kettle
-    * Microwave
+    * Microwave / Air-Fryer
     * Window AC that is probably dying (400w/5000btu)
+*   Home Assistant Install on Proxmox
+
+    * Surveillance Cameras + Frigate + Google Coral
+      * Driver's display
+      * Remote Access
+      * Security Notifications
+    * Solar Generation & Usage Monitoring
+    * Lighting, Fans, Appliance, etc Control
+      * Most loads are on DC side and switchable
+
+
 

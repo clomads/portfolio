@@ -1,8 +1,10 @@
 ---
-description: EST.2009-2015
+description: An attempt to make an online media company
 ---
 
 # SudoTV
+
+`2009-2015 - Concept/Design/Branding/Video Production/Web Developer`
 
 ## Summary
 
@@ -12,7 +14,7 @@ SudoTV or Sudo.TV was a brand with the intention of becoming an internet media c
 
 Sudo is a common command line function in linux and unix based machines meaning to perform a task as the "super-user" or admin/root. It's use in the branding would theoretically attract more technically minded users to similarly intended content.&#x20;
 
-Sudo is often pronounced similar to the word "pseudo" which generally has negative connotations, but in this context, I think the concept of being "like television" but not, would be a positive. Remember, that in 2009/2010, YouTube was still finding its footing and Vimeo was still relevant.
+Sudo is often pronounced similar to the word "pseudo" which generally has negative connotations, but in this context, I think the concept of being "like television" but not, would be a positive. _Remember, that in 2009/2010, YouTube was still finding its footing and Vimeo was still relevant._
 
 The logo is a stylized version of a schematic symbol for a signal or AC power supply.
 

@@ -4,6 +4,8 @@ description: A ragtag group of weirdos oddly placed into a corporate media space
 
 # Nextwave Media Lab
 
+`2012-2016 - Video Producer/UI Design/General Graphics/Photography`
+
 ## Summary
 
 Nextwave Media Lab was an odd amalgamation of live production venue and accelerator think tank. It was a group of creatives who were offered space to be artists within a corporate building that happened to have a small theater inside of it.&#x20;

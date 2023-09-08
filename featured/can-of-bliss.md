@@ -4,6 +4,8 @@ description: Creating a unique point of sale experience for cannabis
 
 # Can of Bliss
 
+`2019 - Freelance Design Consulting & Light Manufacturing`
+
 <figure><img src="../.gitbook/assets/AR-stand_1C_brighter-for-print-1200.png" alt=""><figcaption><p>Pre-production design of the store unit</p></figcaption></figure>
 
 ## Summary

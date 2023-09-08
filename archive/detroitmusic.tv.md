@@ -4,7 +4,7 @@ description: A website and community showcasing the best music Detroit has to of
 
 # DetroitMusic.TV
 
-`EST. 2008-2015`
+`2008-2015 - Partner/Video Producer/Graphics/Photograpy/Web Developer/Designer`
 
 ## Summary
 

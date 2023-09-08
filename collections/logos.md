@@ -30,7 +30,7 @@ I'm building this page on the fly with assets that I have on hand. There are a f
 
 ![](../.gitbook/assets/2015-01-02-queird-logo-0.3.png)
 
-Queird was the extension of a previous project I felt fell short. It was supposed to be a queer marketplace for artists and makers with the goal of obtaining and maintaining a makerspace for them to use to make their wares. The idea was unfortunately put aside indefinitely as I focused on my work with VDBX, but I hope to bring it back as a non-profit incubator and makerspace for queer artists. The focus will be a bit different and cater towards homeless or transient queers who live in vehicles.&#x20;
+Queird was supposed to be a queer marketplace for artists and makers with the goal of obtaining and maintaining a makerspace for them to use to make their wares. The idea was unfortunately put aside indefinitely as I focused on my work with VDBX, but I hope to bring it back as a non-profit incubator and makerspace for queer artists. The focus will be a bit different and cater towards homeless or transient queers who live in vehicles.&#x20;
 
 ![](../.gitbook/assets/clomads-logo.png)
 
@@ -42,7 +42,7 @@ The 1440 Collective was a local underground music venue and music studio in Detr
 
 <img src="../.gitbook/assets/clomadshuge white.png" alt="" data-size="original">&#x20;
 
-I started using this logo when I began designing circut boards. You can see it on many of my designs and on packaging for VDBX.io products that I design.
+I started using this logo when I began designing circuit boards. You can see it on many of my designs and on packaging for VDBX.io products that I design.
 
 <figure><img src="../.gitbook/assets/chloe-madison-logo.png" alt=""><figcaption></figcaption></figure>
 

@@ -2,9 +2,9 @@
 
 * [Welcome](README.md)
 
-## Featured
+## ✨ Featured&#x20;
 
-* [VDBX.io / Voidbox Industries](featured/vdbx.io-voidbox-industries.md)
+* [VDBX.io](featured/vdbx.io-voidbox-industries.md)
 * [Gary Bussy](featured/gary-bussy.md)
 * [Can of Bliss](featured/can-of-bliss.md)
 
@@ -29,7 +29,3 @@
   * [Power](concepts/origami/power.md)
   * [Design Reference](concepts/origami/design-reference.md)
   * [Display](concepts/origami/display.md)
-
-## Hobbies
-
-* [Gary Bussy](hobbies/gary-bussy.md)
