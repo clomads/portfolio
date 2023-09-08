@@ -2,7 +2,7 @@
 description: My current retail and manufacturing brand for open source hardware
 ---
 
-# VDBX.io / Voidbox Industries
+# VDBX.io
 
 ## Summary
 
@@ -24,4 +24,9 @@ The cube logo came from an 3D model I made as an enclosure that had one corner c
 
 All of this was made on a whim in 2018 when I first started and I still feel affinity with the brand, but in 2023+ it may be time for a slight refresh to the assets.&#x20;
 
-##
+## History
+
+I used to make conrete products under the VDBX.io brand but things changed when the pandemic hit. Here's a few items we designed and or sold at that time.&#x20;
+
+<figure><img src="../.gitbook/assets/handyjr.jpeg" alt=""><figcaption></figcaption></figure>
+
