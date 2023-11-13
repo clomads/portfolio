@@ -31,5 +31,3 @@ Love,
 @clomads&#x20;
 
 Chloe Madison-Ryan
-
-Stuff and things
