@@ -20,6 +20,7 @@
 ## Collections
 
 * [Logos](collections/logos.md)
+* [App Concepts](collections/app-concepts.md)
 
 ## Concepts
 

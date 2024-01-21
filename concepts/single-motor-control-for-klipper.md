@@ -1,10 +1,10 @@
 ---
-description: RP2040 was over-hyped, but I kinda love how Klipper has implemented it.
 tags:
   - RP2040
   - 3D Printing
 categories:
   - Concept
+description: RP2040 was over-hyped, but I kinda love how Klipper has implemented it.
 ---
 
 # Single Motor Control For Klipper
@@ -19,14 +19,14 @@ I've been upgrading my Ender 3v2 ever since I first got it and within a couple m
 
 ## Additional Thoughts
 
-A while back I mentioned something about injecting PD[^2] power into USB-C cables already carrying a USB 2.0 signal, likely sourced from a USB-A port. I wonder what the possibility of this is, because this is basically a USB-C connected tool head.&#x20;
+A while back I mentioned something about injecting PD power into USB-C cables already carrying a USB 2.0 signal, likely sourced from a USB-A port. I wonder what the possibility of this is, because this is basically a USB-C connected tool head.
 
-Everyone is trying to send CAN up the line when we could just be figuring out how to inject proper power into a USB-C cable. TI has a wide range of PD controllers at first look, but I'd need to take a closer look. &#x20;
+Everyone is trying to send CAN up the line when we could just be figuring out how to inject proper power into a USB-C cable. TI has a wide range of PD controllers at first look, but I'd need to take a closer look.
 
 The heater for a Revo is 40w... I think the highest I've seen is 60w for other high flow... maybe 100w exists.
 
 I just had an absurd thought about a whole printer being wired with USB-C cables to each motor from a raspberry pi.
 
-[^1]: A "step-stick" is a colloquial term for small PCBs consisting of a stepper motor controller and some supporting hardware. They have had a consistent form-factor of a 2x8p 2.54mm DIP package for over a decade.
+1. USB-C 'Power Delivery' is the standard created to allow devices to negotiate voltage and current with the charger.
 
-[^2]: USB-C 'Power Delivery' is the standard created to allow devices to negotiate voltage and current with the charger.
+[^1]: A "step-stick" is a colloquial term for small PCBs consisting of a stepper motor controller and some supporting hardware. They have had a consistent form-factor of a 2x8p 2.54mm DIP package for over a decade.
