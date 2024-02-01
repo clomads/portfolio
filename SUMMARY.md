@@ -2,7 +2,7 @@
 
 * [Welcome](README.md)
 
-## ✨ Featured&#x20;
+## Featured  ✨
 
 * [VDBX.io](featured/vdbx.io-voidbox-industries.md)
 * [Gary Bussy](featured/gary-bussy.md)
