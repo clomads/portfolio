@@ -30,9 +30,9 @@ This may also be a place for me to write out concepts and prototype documentatio
 
 Love,
 
-@clomads&#x20;
-
 Chloe Madison-Ryan
+
+@clomads - [Twitter](https://twitter.com/clomads) • [Instagram](https://www.instagram.com/clomads) • [Mastodon](https://mastodon.social/@clomads) • [Tiktok](https://www.tiktok.com/@clomads) • [Youtube](https://www.youtube.com/clomads) • [Patreon](https://www.patreon.com/clomads)
 
 ## Featured Projects
 
