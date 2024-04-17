@@ -16,6 +16,7 @@
 * [Silkroute Global](archive/silkroute-global.md)
 * [DetroitMusic.TV](archive/detroitmusic.tv.md)
 * [SudoTV](archive/sudotv.md)
+* [clomads.com](archive/clomads.com.md)
 
 ## Collections
 
