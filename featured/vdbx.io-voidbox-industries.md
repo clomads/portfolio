@@ -2,7 +2,9 @@
 description: My current retail and manufacturing brand for open source hardware
 ---
 
-# VDBX.io
+# Voidbox Industries
+
+## [VDBX.io](https://vdbx.io) ↗&#x20;
 
 ## Summary
 
@@ -12,11 +14,11 @@ Conceptual designs had the electronics and concrete work meeting in the middle, 
 
 Years earlier I had developed an interest in the open-source Home Assistant project, but never had the time or space to really dive in, until the bus, but it brought its own challenges due to most IOT devices assuming you're living in a house with AC wiring. This is where the pivot for VDBX started happening, tho life made it so it was just research for the next couple years.
 
-VDBX technically relaunched in 2023 with a focus on Home Assistant focused hardware for off-grid installations.  I hope that within a year or two I can hire my friends to help with production and turn it into a worker-owned co-op. I'm also interested in expanding VDBX to showcase and manufacture open hardware for other makers, specifically those in marginalized communities.
+VDBX relaunched in 2023 with a focus on Home Assistant focused hardware for off-grid installations. Coming into 2025, I have a healthy start to a microcontroller platform and a Crowd Supply coming soon.  I hope that within a year or two I can hire my friends to help with production and turn it into a worker-owned co-op. Within the theme of automation, I hope to also document our local manufacturing / QA / packaging operations for all to benefit from.&#x20;
 
 ## Brand
 
-The name Voidbox came from a conecptual design I had in my head for lamps created with Vantablack alternatives so that the viewer would be confused about the source of light. At the time only Stuart Semple's Black 2.0 was available and didn't create the effect I was hoping for.&#x20;
+The name Voidbox came from a concrptual design I had in my head for lamps created with Vantablack alternatives so that the viewer would be confused about the source of light. At the time only Stuart Semple's Black 2.0 was available and didn't create the effect I was hoping for. I have yet to try with Black 3.0 and fuck Anish Kapoor.
 
 I eventually broke down Voidbox to VDBX while doing a domain search and found that VDBX.io was available. It wasn't until a little while later that I realized that I & O are the vowels removed from Voidbox to make VDBX.
 
