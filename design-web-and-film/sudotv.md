@@ -6,6 +6,10 @@ description: An attempt to make an online media company
 
 `2009-2015 - Concept/Design/Branding/Video Production/Web Developer`
 
+
+
+<figure><img src="../.gitbook/assets/sudo-logo-blue.png" alt="" width="357"><figcaption></figcaption></figure>
+
 ## Summary
 
 SudoTV or Sudo.TV was a brand with the intention of becoming an internet media company, but instead became a personal brand for my freelance work at the time.&#x20;

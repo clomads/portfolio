@@ -21,13 +21,13 @@ I'm working on a whole separate wiki to track and document projects. I will link
   * 10,000lbs GVWR&#x20;
 * 1450 W Solar
   * 4.5Kwh Lithium NMC 7s @ 25.2v Nominal
-  * 1kw+ AC Shore Charging + 2000w inverter generator
+  * 1kw+ AC Shore Charging + 3500w inverter generator
   * 3000w Inverter
     * Induction Cooktop
     * Kettle
     * Microwave / Air-Fryer
     * Window AC that is probably dying (400w/5000btu)
-* Home Assistant Install on Proxmox
+* Home Assistant OS on N5105 mini PC
   * Surveillance Cameras + Frigate + Google Coral
     * Driver's display
     * Remote Access
@@ -59,15 +59,15 @@ I have a lot of plans for my bus but it will take time and money to complete. Ma
 * Finalize paint job with same blue as currently on front-end - accent rub bars and ports with black bed liner.&#x20;
 * Replace hatch cover with tinted polycarbonate and custom opening mechanism (in development)
 * Proper freshwater storage and grey water capture system
-  * Upgrade from swappable 6 gallon water jerry cans to undermount tank system with hose and gravity fill. \~10-30 gallons dependent on space/
+  * Upgrade from swappable 6 gallon water jerry cans to undermount tank system with hose and gravity fill. \~10-30 gallons dependent on space.
   * Recirculating shower with tankless water heater.&#x20;
     * Uses a set of filters to purify shower water so it can be recycled over several showers before being discarded and filters cleaned or replaced.
     * Only about 5-10 gallons of water for several showers. Actual count TBD, but existing research says up to 20 showers before replenishing shower water.
     * Leaning towards using propane for tankless water heater, but electric would force me to upgrade aspects of my electrical system (more batteries, solar, generator)
 * Every aspect of the bus should be available in Home Assistant, including main drivetrain information and control.&#x20;
   * Custom ECU for mostly mechanical diesel engine and 4 speed transmission - control should be simple enough to be ran on a modern ESP32
-  * Custom dashboard and gauges with Airplay and Home Assistant access for monitoring during long trips.&#x20;
-  * Current project focuses on the creation of custom expandable switch panels which would be great for commonly used functions allowing less use of a touch screen whilst driving.
+  * Custom dashboard and gauges with CarPlay and Home Assistant access for monitoring during long trips.&#x20;
+  * A current project of mine focuses on the creation of custom expandable switch panels which would be great for commonly used functions allowing less use of a touch screen whilst driving.
   * Existing items still not available in HA
     * Generator start/stop and information tracking
     * DC chest fridge management

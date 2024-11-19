@@ -1,6 +1,20 @@
 ---
 cover: ../.gitbook/assets/Screenshot 2023-09-07 at 5.28.00 PM.png
 coverY: 229
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Busey Ipsum
