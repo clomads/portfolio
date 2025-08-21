@@ -12,7 +12,7 @@ description: >-
 
 Hi Friends,
 
-I'm Chloe Madison-Ryan, a visual artist and open hardware designer in the Bay Area who lives in a shorty school bus. I do my best to document that work across various corners of the internet, and my current focus is [VDBX.io](https://www.vdbx.io) where certain designs of mine are more formally documented, open-sourced, and made available for purchase.&#x20;
+I'm Chloe Madison-Ryan, a visual artist and open hardware designer in ~~the Bay Area~~ Joshua Tree who lives in a shorty school bus. I do my best to document that work across various corners of the internet, and my current focus is [VDBX.io](https://www.vdbx.io) where certain designs of mine are more formally documented, open-sourced, and made available for purchase.&#x20;
 
 This site is for everything else. I have done so many things in my life, I figured having a living portfolio in wiki form will probably make things easier for me to archive it all. Otherwise it'll just be in a random folder waiting for a data catastrophe to wipe it out... ask me how I know.
 
@@ -23,8 +23,8 @@ Skills I have excelled at throughout my life:
 * Logo & branding design with product integration
 * HTML5 & CSS3 w/ SASS
 * Video production with DSLR & Mirrorless
-* Live event video production: live switching & hardware design/integration
-* Video editing, 2D compositing , & animation
+* Live event video production: live switching & system design/integration
+* Video editing, 2D compositing, & animation
 * Lithium battery systems for solar off-grid applications
   * Automation, data collection, & user presentation
 
