@@ -21,6 +21,7 @@
 
 ## Personal Projects
 
+* [Demon Core Disco Ball](personal-projects/demon-core-disco-ball.md)
 * [Unifi Wall Mount](personal-projects/unifi-wall-mount.md)
 
 ## Collections
